@@ -1,5 +1,5 @@
 import random
-
+y = 0
 x = 0;
 while 1 :
     x = random.randint(1,9)
